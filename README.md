@@ -14,6 +14,24 @@ This repository contains my React.js practice code created for learning purposes
 
 ---
 
+## 📂 Project Structure
+
+
+React/
+│
+├── Components/
+├── Props/
+├── Hooks/
+│ ├── useState/
+│ ├── useEffect/
+│ └── useContext/
+│
+├── ContextAPI/
+├── Router/
+├── APIs/
+└── first-demo/
+└── my-app/
+
 
 ---
 
@@ -47,16 +65,38 @@ This repository contains my React.js practice code created for learning purposes
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Amit=Amitt/react.git
-
-### 2. Navigate to project folder
-```bash
+git clone https://github.com/Amit-Amitt/react.git
+2. Navigate to project folder
 cd react
-
-### 3. Install dependencies
-```bash
+3. Install dependencies
 npm install
-
-### 4. Run the project
-```bash
+4. Run the project
 npm run dev
+🛠 Tech Stack
+React.js
+JavaScript (ES6+)
+Vite
+Axios
+React Router
+📸 Features
+Beginner-friendly examples
+Clean and simple code
+Organized folder structure
+Covers important React concepts
+📌 Note
+
+This project is created only for learning and practice purposes.
+It is not a production-level application.
+
+👨‍💻 Author
+
+Amit
+
+
+⭐ Support
+
+If you find this helpful:
+
+Star ⭐ this repository
+Fork 🍴 it
+Share 📢 with others
