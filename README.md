@@ -114,7 +114,6 @@ It is not a production-level application.
 ## 👨‍💻 Author
 
 **Amit**  
-Computer Engineering Student 🚀  
 
 ---
 
