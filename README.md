@@ -18,17 +18,16 @@ This repository contains my React.js practice code created for learning purposes
 
 ```
 React/
-│
 ├── Components/
 ├── Props/
 ├── Hooks/
 │   ├── useState/
 │   ├── useEffect/
 │   └── useContext/
-│
 ├── ContextAPI/
 ├── Router/
 ├── APIs/
+├── FormValidation/
 └── first-demo/
     └── my-app/
 ```
@@ -65,24 +64,31 @@ React/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Amit-Amitt/react.git
+git clone https://github.com/Amit-Amitt/React.git
 ```
 
 ### 2. Navigate to project folder
 ```bash
-cd react
+cd React
 ```
-
-### 3. Install dependencies
+### 3. Go to the main React app
+```bash
+cd first-demo/my-app
+```
+### 4. Install dependencies
 ```bash
 npm install
 ```
 
-### 4. Run the project
+### 5. Run the project
 ```bash
 npm run dev
 ```
+### 6. Open in browser  
+Visit: local URL shown in the terminal.
 
+>  Note: The root folder contains learning examples.  
+> The main runnable React app is inside `first-demo/my-app`.
 ---
 
 ## 🛠 Tech Stack
@@ -124,3 +130,4 @@ If you find this helpful:
 - Star ⭐ this repository  
 - Fork 🍴 it  
 - Share 📢 with others  
+
